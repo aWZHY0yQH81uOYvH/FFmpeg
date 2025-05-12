@@ -237,6 +237,7 @@ extern const AVFilter ff_vf_crop;
 extern const AVFilter ff_vf_cropdetect;
 extern const AVFilter ff_vf_cue;
 extern const AVFilter ff_vf_curves;
+extern const AVFilter ff_vf_darkmode;
 extern const AVFilter ff_vf_datascope;
 extern const AVFilter ff_vf_dblur;
 extern const AVFilter ff_vf_dctdnoiz;
